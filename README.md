@@ -1,1 +1,1 @@
-<a href="www.rajnishps.me">Nothing</a>
+<a href="http://rajnishps.me">Nothing</a>
