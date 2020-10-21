@@ -8,7 +8,7 @@ body {
   background-color: white;
 }
 
-ul {
+ul , a {
   text-align: center;
   font-size: 10vh;
   display: flex;
